@@ -81,7 +81,7 @@ A cutting-edge AI-powered platform to preserve and access traditional knowledge 
 ### **🚀 Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/sandalwood-knowledge-system.git  
+   git clone https://github.com/mansidhote/Sandalwood-Insights.git  
    ```  
 
 2. Navigate to the project directory:  
