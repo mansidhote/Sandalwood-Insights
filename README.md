@@ -78,29 +78,16 @@ A cutting-edge AI-powered platform to preserve and access traditional knowledge 
 ---
 
 
-### **🚀 Installation**  
+### **Usage Instructions**  
+
+You can run the project directly on **Google Colab** or **Jupyter Notebook** by cloning the repository.  
+
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/mansidhote/Sandalwood-Insights.git  
    ```  
 
-2. Navigate to the project directory:  
-   ```bash  
-   cd sandalwood-knowledge-system  
-   ```  
+2. Open the desired `.ipynb` files on Colab or Jupyter Notebook.  
+   - The first three notebooks handle preprocessing tasks like transcription, translation, and vector database creation.  
+   - The fourth notebook integrates all components into the final pipeline, ready for query handling.  
 
-3. Create a virtual environment:  
-   ```bash  
-   python -m venv venv  
-   ```  
-
-4. Activate the virtual environment:  
-   - Linux/Mac: `source venv/bin/activate`  
-   - Windows: `venv\Scripts\activate`  
-
-5. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
----
